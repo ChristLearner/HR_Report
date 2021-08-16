@@ -1,1 +1,1 @@
-# HR_Report
+This Report has been made by using some HR data available on : https://www.editions-eni.fr/livre/analyse-et-reporting-rh-excel-au-service-des-ressources-humaines-9782409020131 These data are about HR field and related to a famous book really interesting.# HR_Report
